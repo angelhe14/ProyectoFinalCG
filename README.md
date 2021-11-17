@@ -1,0 +1,2 @@
+# ProyectoFinalCG
+Entorno virtual - Sherk
